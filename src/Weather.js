@@ -27,7 +27,7 @@ export default function Weather(){
     
         return(
         <div className="Weather">
-            <h2>This is my first time in VS code</h2>
+            <h2>React to VS Code</h2>
             {form}
             <Loader
         type="BallTriangle"
